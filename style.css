@@ -1,0 +1,66 @@
+/* fondo exterior */
+body {
+    margin: 0;
+    background: #3f3f3f;
+    font-family: Georgia, serif;
+}
+
+/* marco gris medio */
+.page {
+    background: #bfbfbf;
+    width: 900px;
+    margin: 40px auto;
+    padding: 30px 0;
+}
+
+/* contenido */
+.content {
+    background: #f2f2f2;
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+}
+
+/* navegación */
+.nav {
+    text-align: center;
+    font-family: "Courier New", monospace;
+    margin-bottom: 20px;
+}
+
+/* imagen */
+.content img {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 100%;
+}
+
+/* narración */
+.narration {
+    margin-bottom: 20px;
+    color: #222;
+}
+
+/* pesterlog */
+.pesterlog {
+    border: 1px dashed #999;
+    padding: 10px;
+}
+
+.dialogue {
+    font-family: "Courier New", monospace;
+    font-weight: 600;
+}
+
+
+.maxxxx { color: #0000aa; }
+.codexx { color: #a1a100; }
+
+
+.nav a {
+  font-size: 36px;      
+  font-weight: bold;    
+  text-decoration: none;
+}
+
